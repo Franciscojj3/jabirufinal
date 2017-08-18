@@ -1,0 +1,17 @@
+p {
+    color:black;
+    font-size:200%;
+}
+
+h1 {
+    background-color:#33cccc;
+	font-family: "Times New Roman", Georgia, Serif; 
+	font-size: 125%
+}            
+
+body {
+    background-color:#33cccc;
+    color:white;
+    margin:0 4px 0 0;
+    border:12px solid;
+}
